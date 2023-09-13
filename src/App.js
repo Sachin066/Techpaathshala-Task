@@ -1,42 +1,20 @@
-import Navbar from './components/Navbar';
 import './App.css';
-import Card from './components/Card';
+import Nav from './header/header';
+import Nf_ori from './nf_original/nf_original';
+import Extv from './excited_tv/ex_tv';
+import Foote from './footer/foot';
+import Pop from './popular_on_netflix/pop_nf'
+
 
 function App() {
   return (
-    <div className='scroll'>
-     
-      <Navbar />
-
-      <h2>New Movies</h2>
-      <div className='app_card'>
-      <Card />
-      <Card />
-      <Card />
-      </div>
-
-      <h2>New Movies</h2>
-      <div className='app_card'>
-      <Card />
-      <Card />
-      <Card />
-      </div>
-
-      <h2>New Movies</h2>
-      <div className='app_card'>
-      <Card />
-      <Card />
-      <Card />
-      </div>
-
-      <h2>New Movies</h2>
-      <div className='app_card'>
-      <Card />
-      <Card />
-      <Card />
-      </div>
-
-    </div>
+    <>
+      <Nav/>
+      <Nf_ori/>
+      {/* <Pop /> */}
+      <Extv />
+      <Foote/>
+    </>  
   );
 }
 
