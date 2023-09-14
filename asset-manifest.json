@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/Techpaathshala-Task/static/css/main.8967300a.css",
-    "main.js": "/Techpaathshala-Task/static/js/main.28c76c3b.js",
-    "static/media/netflix.png": "/Techpaathshala-Task/static/media/netflix.9613962d1eccc0925b56.png",
+    "main.js": "/Techpaathshala-Task/static/js/main.dffae8df.js",
     "index.html": "/Techpaathshala-Task/index.html",
     "main.8967300a.css.map": "/Techpaathshala-Task/static/css/main.8967300a.css.map",
-    "main.28c76c3b.js.map": "/Techpaathshala-Task/static/js/main.28c76c3b.js.map"
+    "main.dffae8df.js.map": "/Techpaathshala-Task/static/js/main.dffae8df.js.map"
   },
   "entrypoints": [
     "static/css/main.8967300a.css",
-    "static/js/main.28c76c3b.js"
+    "static/js/main.dffae8df.js"
   ]
 }
